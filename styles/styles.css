@@ -1,0 +1,59 @@
+*{
+    margin: 25px;
+}
+body{
+    background: black;
+}
+header{
+    background: white;
+}
+section {
+    background: white;
+   
+}
+
+h3{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.project{
+    font-family: sans-serif;
+    font-size: medium;
+    padding-top: 10px;
+    text-align: center;
+    padding-left: 10px;
+    padding: right;
+}
+
+img{
+    width: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle_pic{
+    width: 300px;
+    border: 5px solid;
+    display: flex;
+    float: left;
+}
+
+.education{
+    text-align: left;
+}
+
+footer{
+    background: white;
+}
+
+.header_2{
+    text-align: left;
+}
