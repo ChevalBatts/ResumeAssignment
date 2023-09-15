@@ -1,8 +1,10 @@
-*{
-    margin: 25px;
-}
+
 body{
     background: black;
+}
+.content-wrap{
+    width: 100px;
+    margin: 0 auto;
 }
 header{
     background: white;
@@ -17,14 +19,14 @@ h3{
     margin-top: 10px;
 }
 
-.project{
+/* .project{
     font-family: sans-serif;
     font-size: medium;
     padding-top: 10px;
     text-align: center;
     padding-left: 10px;
     padding: right;
-}
+} */
 
 img{
     width: 600px;
@@ -33,11 +35,11 @@ img{
     
 }
 
-div{
+/* div{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .circle_pic{
     width: 300px;
